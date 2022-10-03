@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546083845016",
+    "project_id": "astitva-testproject",
+    "storage_bucket": "astitva-testproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546083845016:android:4b0938c8545c6cc786f1ed",
+        "android_client_info": {
+          "package_name": "com.astitvatestproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546083845016-k37fmpr6pfn1ih8ftql36i6cfnu0b1i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astitvatestproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "546083845016-aral8drfvuq1ggfihtd91umis4hda0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mPOUmKkNmUz-HcQLinpABkwetShx4wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546083845016-aral8drfvuq1ggfihtd91umis4hda0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
